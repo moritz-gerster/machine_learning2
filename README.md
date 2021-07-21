@@ -1,10 +1,8 @@
-Machine Learning 2
+# Machine Learning 2
 
-Summer semester 2021
+##### Summer semester 2021, Prof. Dr. Klaus-Robert Müller
 
-Prof. Klaus-Robert Müller
-
-Content
+##### Content
 
 1. Low-Dimensional Embedding 1 (LLE)
 2. Low-Dimensional Embedding 2 (t-SNE)
