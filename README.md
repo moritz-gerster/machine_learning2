@@ -18,3 +18,4 @@
 12. Deep Learning 3 (Explainable AI)
 13. Deep Learning 4 (Anomaly Detection)
 
+Exercise solutions are based on my own work, the work of my homework group, or the class sample solutions.
