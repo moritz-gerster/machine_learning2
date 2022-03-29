@@ -1,6 +1,6 @@
-# Machine Learning 2
+# Master's Computer Science Machine Learning 2
 
-### Summer semester 2021, Prof. Dr. Klaus-Robert Müller
+### Summer semester 2021, Prof. Dr. Klaus-Robert Müller, Technische Universität Berlin
 
 ##### Content
 
