@@ -4,7 +4,7 @@
 
 ##### Content
 
-1. Low-Dimensional Embedding 1 (LLE)
+1. Low-Dimensional Embedding (LLE)
 2. Component Analysis 1 (CCA)
 3. Component Analysis 2 (ICA)
 4. Component Analysis 3 (Autoencoders)
