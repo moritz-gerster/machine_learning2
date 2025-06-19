@@ -1,3 +1,21 @@
-/.ipynb_checkpoints
-/.DS_Store
-__pycache__
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Temporary / backup files
+*.swp
+*.swo
+*~
+*.bak
+
+# VS Code project settings (if you use it)
+.vscode/
+
+# Spyder or Jupyter workspace metadata (if applicable)
+.spyproject/
