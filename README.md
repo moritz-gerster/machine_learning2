@@ -1,9 +1,9 @@
 # Machine Learning 2 – Master's Course
 ### Technische Universität Berlin · Prof. Klaus-Robert Müller
 
-This repository contains coursework from the **graduate-level Machine Learning 2** course taught by Prof. Dr. Klaus-Robert Müller at Technische Universität Berlin during the Summer Semester 2022. The course is part of the Master’s in Computer Science program and builds on ML fundamentals with a focus on **Bayesian methods**, **probabilistic modeling**, and **advanced inference techniques**.
+This repository contains coursework from the **graduate-level Machine Learning 2** course taught by Prof. Dr. Klaus-Robert Müller at Technische Universität Berlin during the Summer Semester 2022. The course is part of the Master’s in Computer Science program and explores how machines can learn from data — from statistical foundations to modern AI techniques.
 
-Assignments include both **theoretical exercises** and **Python implementations** of probabilistic machine learning algorithms.
+Assignments include both **analytical derivations** and **programming tasks**.
 
 ---
 
@@ -32,3 +32,6 @@ The repository is organized into weekly folders (e.g., `Week01`, `Week02`, ...) 
 - `Programming_Homework.ipynb` notebooks implementing inference algorithms and generative models
 
 > This coursework is based on my own work, collaborative discussions within my homework group, and publicly provided materials. Redistribution or reuse of these materials for educational or institutional use is not permitted.
+
+---
+👉 Also see: [Machine Learning 1 – Master's Course](https://github.com/moritz-gerster/machine_learning1)
